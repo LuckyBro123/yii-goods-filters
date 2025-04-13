@@ -1,0 +1,12 @@
+{
+  "public/js/main__index.js": {
+    "file": "assets/main__index-823add33.js",
+    "isEntry": true,
+    "src": "public/js/main__index.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  }
+}

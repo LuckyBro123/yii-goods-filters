@@ -1,0 +1,10 @@
+import * as Common from "./modules/common.js";
+import * as CreateCar from "./modules/create_car.js";
+import * as Search from "./modules/search.js";
+
+$(function () {
+  Common.init();
+  CreateCar.init();
+  Search.init();
+
+});
